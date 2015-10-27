@@ -253,6 +253,9 @@
 	.row.\30 \25 {
 		margin: 0px 0 -1px 0px;
 	}
+	.d{
+		font-size: 1000px
+	}
 
 	.row.uniform.\30 \25 > * {
 		padding: 0px 0 0 0px;
